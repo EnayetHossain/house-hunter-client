@@ -1,0 +1,12 @@
+.side-bar {
+  margin-right: 2em;
+}
+
+.search-box {
+  background-color: rgba(var(--accent-color), 0.1);
+}
+
+.search-box::placeholder {
+  color: rgba(var(--secondary-color), 0.7);
+  font-weight: 500;
+}
